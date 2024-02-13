@@ -8,11 +8,10 @@ Overview: we have made email spam classifier
 
 Key Features: Highlighting the classifier's main functionalities and differentiators.
 
-
 software used- pycharm,jupyter,google
 
-\
 language used- python for machine learning
 
+libraries use- numpy,pandas,sklearn,ntlklist,stopwords,
 
-libraries use- numpy,pandas,sklearn,ntlklist
+algorithm used- naive bayes algortithm
